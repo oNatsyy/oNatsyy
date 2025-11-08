@@ -20,7 +20,31 @@ I’m also working toward the Analytics: Essential Tools and Methods MicroMaster
 
 ## 🚀 Active Projects
 
+#### 🏦 Bank Marketing Data Analysis
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-8A2BE2?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+
+A comprehensive analysis of a **bank marketing campaign dataset** to uncover customer behavior patterns and improve subscription targeting.  
+Built and evaluated classification models using scikit-learn pipelines, achieving an **ROC AUC of 0.79**.  
+
 ## 🤝 Let's Connect
+
+<p>
+I’m always open to connecting about machine learning, analytics, AI or collaboration - feel free to reach out on either of the below platforms :)
+</p>
+
+<div align="center">
+  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/natiqali85/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:natiqali85@gmail.com)
+
+</div>
 
 <!--
 **oNatsyy/oNatsyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
