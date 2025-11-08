@@ -12,7 +12,7 @@ I recently graduated from the University of Toronto with an Honours Bachelor of 
 
 Currently, I’m working at RBC Investor Services as a Corporate Actions Analyst, where I focus on data validation, reconciliation, and management. My interests lie at the intersection of data analytics, machine learning, and finance, where I enjoy uncovering patterns that drive real business value.
 
-I’m also working toward the Analytics: Essential Tools and Methods MicroMasters® certification by Georgia Tech, having completed ISYE6501: Introduction to Analytics Modeling and currently enrolled in MGT6203: Data Analytics for Business.
+I’m also working toward the Analytics: Essential Tools and Methods MicroMasters® certification by Georgia Institute of Technology, having completed ISYE6501: Introduction to Analytics Modeling and currently enrolled in MGT6203: Data Analytics for Business.
 
 ## 💻 Tech Stack
 
