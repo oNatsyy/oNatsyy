@@ -30,8 +30,7 @@ I’m also working toward the Analytics: Essential Tools and Methods MicroMaster
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 
-A comprehensive analysis of a **bank marketing campaign dataset** to uncover customer behavior patterns and improve subscription targeting.  
-Built and evaluated classification models using scikit-learn pipelines, achieving an **ROC AUC of 0.79**.  
+A comprehensive analysis of a **bank marketing campaign dataset** to uncover customer behavior patterns and improve subscription targeting with classification models using scikit-learn pipelines, achieving an **ROC AUC of 0.79**.  
 
 ## 🤝 Let's Connect
 
