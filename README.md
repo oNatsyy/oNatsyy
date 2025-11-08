@@ -36,7 +36,7 @@ Built and evaluated classification models using scikit-learn pipelines, achievin
 ## 🤝 Let's Connect
 
 <p>
-I’m always open to connecting about machine learning, analytics, AI or collaboration - feel free to reach out on either of the below platforms :)
+I’m always open to connecting about machine learning, AI or collaboration - feel free to reach out on either of the below platforms :)
 </p>
 
 <div align="center">
