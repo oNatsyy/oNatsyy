@@ -6,13 +6,14 @@
 
 ## 📊 About Me
 
+
 Hi! I’m Natiq, a Data Analyst driven by curiosity and a passion for uncovering meaningful insights from data.
 
-I recently graduated from the University of Toronto with an Honours Bachelor of Science, specializing in Mathematical Applications in Probability and Statistics and minoring in Computer Science.
+I graduated from the University of Toronto with an Honours Bachelor of Science, specializing in Mathematical Applications in Probability and Statistics and minoring in Computer Science.
 
-Currently, I’m working at RBC Investor Services as a Corporate Actions Analyst, where I focus on data validation, reconciliation, and management. My interests lie at the intersection of data analytics, machine learning, and finance, where I enjoy uncovering patterns that drive real business value.
+Currently, I’m working at RBC Investor Services as a Junior Specialist, Proxy Services, where I focus on data validation, reconciliation, and management. My interests lie at the intersection of data analytics, machine learning, and finance, where I enjoy uncovering patterns that drive real business value.
 
-I’m also working toward the Analytics: Essential Tools and Methods MicroMasters® certification by Georgia Institute of Technology, having completed ISYE6501: Introduction to Analytics Modeling, MGT6203: Data Analytics for Business and currently enrolled in CSE6040: Computing for Data Analytics.
+I recently completed the Analytics: Essential Tools and Methods MicroMasters® program from the Georgia Institute of Technology, and I’m currently reading Hands-On Machine Learning with Scikit-Learn and PyTorch to deepen my practical machine learning knowledge.
 
 ## 💻 Tech Stack
 
